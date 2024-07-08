@@ -2,6 +2,8 @@
 
 This project features a series of interactive sound installations designed to engage participants through unique auditory and physical experiences. Each installation element combines artistic expression with technological innovation, inviting observers to explore and interact with the sounds produced by everyday objects.
 
+The piece was presented at Taideyliopisto in Helsinki in December 2021. It is staged on a wooden table (118 cm x73.5 cm) with several audio exciters attached to the materials. A belaMini, mounted to the table, controls the sound. Because of the nature of the sound emission, the volume is highly localized, meaning that it is almost imperceptible if you are more than a few meters away.
+
 ## Installation Elements
 
 ### 1. Table
